@@ -112,7 +112,7 @@ module.exports = {
         return;
       }
 
-      if (!interaction.guild.members.me.permissions.has("BAN_MEMBERS")) {
+      if (!interaction.guild.members.me.permissions.has("BanMembers")) {
         interaction.reply({
           embeds: [
             embed
