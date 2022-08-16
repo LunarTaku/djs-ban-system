@@ -10,9 +10,8 @@ This command is an advanced ban command which bans the user your mention and als
 
 # Instructions:
 > 1. Place the commands into your commands folder.
-> 2. Place the events in your events folder.
-> 3. Create a new folder in the bot root direcatory and name it "schemas", and than place the schema in there.
-> 4. Change all the paths to the right ones if needed.
+> 2. Create a new folder in the bot root direcatory and name it "schemas", and than place the schema in there.
+> 3. Change all the paths to the right ones if needed.
 
 # MongoDB Connection:
 > be sure to add this to your ready.js file.
